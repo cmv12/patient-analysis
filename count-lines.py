@@ -1,6 +1,7 @@
 """This script counts the number of lines in standard input
 
 Input: strings from the system's standard input.
+Output: a string with the totla number of lines. 
 """
 
 import sys
